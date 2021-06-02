@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramsAndPrimeNumbers.Performance", "AnagramsAndPrimeNumbers.Performance\AnagramsAndPrimeNumbers.Performance.csproj", "{B0B902A5-C72B-41B4-BDBE-9577F88941DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramsAndPrimeNumbers", "AnagramsAndPrimeNumbers\AnagramsAndPrimeNumbers.csproj", "{B72BFB79-3428-45B3-8CAC-9E04A6C10262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B902A5-C72B-41B4-BDBE-9577F88941DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B902A5-C72B-41B4-BDBE-9577F88941DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B902A5-C72B-41B4-BDBE-9577F88941DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B902A5-C72B-41B4-BDBE-9577F88941DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72BFB79-3428-45B3-8CAC-9E04A6C10262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72BFB79-3428-45B3-8CAC-9E04A6C10262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72BFB79-3428-45B3-8CAC-9E04A6C10262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72BFB79-3428-45B3-8CAC-9E04A6C10262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9115882-2018-4724-879A-52B7B11357DA}
+	EndGlobalSection
+EndGlobal
